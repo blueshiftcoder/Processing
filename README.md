@@ -1,3 +1,5 @@
+<img src="http://blueshiftcoding.com/wp-content/themes/blueshift/images/logo-animation175p.gif">
+
 # Processing
 blue{shift} Processing Lesson Plans
 
