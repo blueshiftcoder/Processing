@@ -1,4 +1,4 @@
-<a href="http://blueshiftcoding.com" target="_blank"><img src="http://blueshiftcoding.com/wp-content/themes/blueshift/images/logo-animation175p.gif"></a>
+<a target="_blank" href="http://blueshiftcoding.com"><img src="http://blueshiftcoding.com/wp-content/themes/blueshift/images/logo-animation175p.gif"></a>
 
 # Processing
 blue{shift} Processing Lesson Plans
